@@ -1,5 +1,5 @@
 ## 개인 활동 👋
-
+<head>개인 활동</head>
 <!--
 **Bong-jun-jang/Bong-jun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
