@@ -1,14 +1,11 @@
-<h3 align="center">✨ Bongjun's github ✨
-  <div align="center">
-    bongjun's github
-  </div>
-</h3>
+<h3 align="center">✨ Bongjun's github ✨</h3>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-<head>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/>
-</head>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong-jun-jang)
 
