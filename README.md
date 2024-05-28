@@ -3,7 +3,7 @@
 <!--
 **Bong-jun-jang/Bong-jun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong-jun-jang)
 
 Here are some ideas to get you started:
 
