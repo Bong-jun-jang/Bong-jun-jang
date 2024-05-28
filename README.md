@@ -7,7 +7,10 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong-jun-jang)
+<h3 align="center">✨ Language ✨</h3>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong-jun-jang)
+</div>
 
 <!--
 **Bong-jun-jang/Bong-jun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
