@@ -1,7 +1,10 @@
-<div align="center">
-  bongjun's github
-</div>
-## 경험
+<h3 align="center">✨ Bongjun's github ✨
+  <div align="center">
+    bongjun's github
+  </div>
+</h3>
+
+<h3 align="center">✨ Tech Stack ✨</h3>
 <head>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/>
