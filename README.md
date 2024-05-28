@@ -3,6 +3,8 @@
 <!--
 **Bong-jun-jang/Bong-jun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
