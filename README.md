@@ -1,6 +1,11 @@
-<h3 align="center">✨ Bongjun's github ✨
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bongjun's github&fontSize=90)
+### Bongjun's github
+
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Bongjun's github stats" /></a>
 </h3>
+
+### Programers
+[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/Bong-jun-jang/github-programmers-rank)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
