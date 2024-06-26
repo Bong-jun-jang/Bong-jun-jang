@@ -1,4 +1,6 @@
-<h3 align="center">✨ Bongjun's github ✨</h3>
+<h3 align="center">✨ Bongjun's github ✨
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Bongjun's github stats" /></a>
+</h3>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -11,8 +13,6 @@
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong-jun-jang)
 </div>
-
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jinseok-in&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Bongjun's github stats" /></a>
 
 <!--
 **Bong-jun-jang/Bong-jun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
