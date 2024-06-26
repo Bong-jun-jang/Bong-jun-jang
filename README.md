@@ -2,7 +2,10 @@
 ### Bongjun's github
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Bong-jun-jang&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Bong_jun's github stats" /></a>
-</h3>
+
+
+<br>
+
 
 ### Programers
 [![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/Bong-jun-jang/github-programmers-rank)
@@ -13,6 +16,10 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
+
+
+<br>
+
 
 <h3 align="center">✨ Language ✨</h3>
 <div align="center">
