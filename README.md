@@ -8,7 +8,8 @@
 
 
 ### Programers
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/jbj0536@daum.net/github-programmers-rank)
+[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/Bong-jun-jang/github-programmers-rank)
+
 
 <br>
 
